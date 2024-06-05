@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C#, .NET, TensorFlow, Oracle SQL and Node.JS**
 
-- 💬 Ask me about [technology I really enjoy talking about it!](technology I really enjoy talking about it!)
+- 💬 Ask me about technology I really enjoy talking about it!
 
 - 👨‍💻 I have learned these technologies and Frameworks: **SQL (MySQL, Sever and Oracle), React, Spring, Bootstrap, Django.**
 
