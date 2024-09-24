@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **a Web application for a tourism company in Costa Rica**
 
-- 🌱 I’m currently learning **C#, .NET, TensorFlow, Oracle SQL and Node.JS**
+- 🌱 I’m currently learning **C#, .NET CORE, Data Warehouse, NoSQL, Node.JS**
 
 - 💬 Ask me about technology I really enjoy talking about it!
 
-- 👨‍💻 I have learned these technologies and Frameworks: **SQL (MySQL, Sever and Oracle), React, Spring, Bootstrap, Django.**
+- 👨‍💻 I have learned these technologies and Frameworks: **SQL (MySQL, Sever and Oracle), NoSQL(MongoDB), React, Spring, Bootstrap, Django.**
 
 - 📫 How to reach me **andressanchezzu@gmail.com**
 
